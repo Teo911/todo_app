@@ -6,3 +6,5 @@ from django.db import models
 
 class todoModel(models.Model):
     content = models.TextField()
+
+    
